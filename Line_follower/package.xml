@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>Line_follower</name>
+  <name>line_follower</name>
   <version>0.0.0</version>
   <description>The line follower package using a Turtlebot 3 burger and an incorporated raspicam using image processing.</description>
 
