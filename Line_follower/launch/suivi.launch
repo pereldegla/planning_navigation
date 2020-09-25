@@ -1,0 +1,4 @@
+<launch> 
+	<node pkg="suivi" type="line.py" name="line_follower" output="screen">
+	</node>
+</launch>
