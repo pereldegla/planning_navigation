@@ -1,0 +1,4 @@
+<launch> 
+	<node pkg="dodge" type="dodge.py" name="dodge" output="screen">
+	</node>
+</launch>
